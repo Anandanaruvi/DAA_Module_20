@@ -20,8 +20,8 @@ To implement the Rat in a Maze problem using backtracking and find all possible 
 ## Program:
 ```python
 Program to implement Rat in a Maze.
-Developed by: THIRISHA S
-Register Number:  212222230160
+Developed by: A.ARUVI.
+Register Number:  212222230014.
 N = 4
 def printSolution( sol ):
     for i in sol:
